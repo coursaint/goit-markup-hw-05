@@ -1,4 +1,4 @@
-# goit-markup-hw-04
+# goit-markup-hw-05
 Homework project for HTML CSS course
 
-https://coursaint.github.io/goit-markup-hw-04
+https://coursaint.github.io/goit-markup-hw-05
