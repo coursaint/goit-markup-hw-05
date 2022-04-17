@@ -630,6 +630,16 @@ img {
   position: absolute;
   top: 0;
   right: 0;
-  radius: 50%;
+  width: 30px;
+  height: 30px;
+  border-style: none;
+  background-color: var(--third-color-whi);
+  cursor: pointer
+}
 
+.close-btn-img {
+
+  position: absolute;
+  top: 8px;
+  right: 8px;
 }
