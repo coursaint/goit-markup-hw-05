@@ -553,7 +553,7 @@ img {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #3f51b5;
+  background-color: var(--secondary-color-blu);
   font-size: 18px;
   line-height: 156%;
   letter-spacing: 0.03em;
